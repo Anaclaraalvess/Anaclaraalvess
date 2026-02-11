@@ -1,16 +1,45 @@
-## Hi there 👋
+# Olá, eu sou a Ana Clara 👋
 
-<!--
-**Anaclaraalvess/Anaclaraalvess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (5º período)  
+📍 Belo Horizonte - MG  
+💻 Foco em Desenvolvimento e Análise de Sistemas  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+Sou estudante de ADS com interesse em desenvolvimento de software e análise de sistemas. 
+Busco evoluir constantemente minha base em lógica de programação, estrutura de dados e boas práticas de desenvolvimento.
+
+Atualmente atuo como estagiária, onde desenvolvo habilidades como organização de demandas, suporte técnico, análise de dados e resolução de problemas.
+
+---
+
+## 🛠️ Tecnologias e Linguagens
+
+- C
+- HTML
+- JavaScript
+- Python
+- Kotlin
+
+---
+
+## 📚 Atualmente estudando
+
+- Estrutura de Dados
+- Lógica de Programação Avançada
+- Banco de Dados
+- Boas práticas de desenvolvimento
+
+---
+
+## 🎯 Objetivo
+
+Conquistar uma oportunidade como Desenvolvedora ou Analista Júnior, aplicando meus conhecimentos técnicos e evoluindo profissionalmente na área de tecnologia.
+
+---
+
+## 📫 Contato
+
+- LinkedIn: www.linkedin.com/in/ana-clara-alves-dev12345
