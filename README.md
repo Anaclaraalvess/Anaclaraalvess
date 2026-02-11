@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
 Sou estudante de ADS com interesse em desenvolvimento de software e análise de sistemas. 
 Busco evoluir constantemente minha base em lógica de programação, estrutura de dados e boas práticas de desenvolvimento.
@@ -15,7 +15,7 @@ Atualmente atuo como estagiária, onde desenvolvo habilidades como organização
 
 ---
 
-## 🛠️ Tecnologias e Linguagens
+## Tecnologias e Linguagens
 
 - C
 - HTML
@@ -25,7 +25,7 @@ Atualmente atuo como estagiária, onde desenvolvo habilidades como organização
 
 ---
 
-## 📚 Atualmente estudando
+## Atualmente estudando
 
 - Estrutura de Dados
 - Lógica de Programação Avançada
@@ -34,12 +34,12 @@ Atualmente atuo como estagiária, onde desenvolvo habilidades como organização
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 Conquistar uma oportunidade como Desenvolvedora ou Analista Júnior, aplicando meus conhecimentos técnicos e evoluindo profissionalmente na área de tecnologia.
 
 ---
 
-## 📫 Contato
+## Contato
 
 - LinkedIn: www.linkedin.com/in/ana-clara-alves-dev12345
