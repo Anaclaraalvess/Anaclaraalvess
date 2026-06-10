@@ -1,4 +1,4 @@
-# Olá, eu sou a Ana Clara 👋
+# Oi, eu sou a Ana Clara 
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (5º período)  
 📍 Belo Horizonte - MG  
