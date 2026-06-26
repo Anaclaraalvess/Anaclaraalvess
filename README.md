@@ -1,45 +1,45 @@
-# Oi, eu sou a Ana Clara 
+Oi, eu sou a Ana Clara 👋
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (5º período)  
-📍 Belo Horizonte - MG  
-💻 Foco em Desenvolvimento e Análise de Sistemas  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (5º período)
+📍 Belo Horizonte - MG
+💻 Foco em Desenvolvimento e Análise de Sistemas
 
----
+Sobre mim
 
-## Sobre mim
+Sou estudante de ADS com interesse em desenvolvimento de software, análise de sistemas e segurança de aplicações. Busco evoluir constantemente minha base em lógica de programação, estrutura de dados e boas práticas de desenvolvimento.
 
-Sou estudante de ADS com interesse em desenvolvimento de software e análise de sistemas. 
-Busco evoluir constantemente minha base em lógica de programação, estrutura de dados e boas práticas de desenvolvimento.
+Atualmente atuo como estagiária na Prefeitura de Belo Horizonte, onde desenvolvo habilidades como engenharia de requisitos, suporte técnico, análise e modelagem de dados, além de soft skills como organização de demandas, trabalho em equipe e resolução de problemas complexos.
 
-Atualmente atuo como estagiária, onde desenvolvo habilidades como organização de demandas, suporte técnico, análise de dados e resolução de problemas.
+Projeto em Destaque
 
----
+🛡️ AnaDesk SOC - Help Desk Seguro
 
-## Tecnologias e Linguagens
+Um sistema web Full-Stack completo e responsivo projetado sob a ótica de Operações de Segurança (SOC). Desenvolvido em React com back-end em Node.js/Express, modelagem relacional via Prisma ORM/SQLite e blindagem de rotas contra ataques cibernéticos comuns (Helmet e Rate Limiters).
 
-- C
-- HTML
-- JavaScript
-- Python
-- Kotlin
+Tecnologias e Linguagens
 
----
+Linguagens de Programação: JavaScript (ES6+), Python, Linguagem C, Kotlin.
 
-## Atualmente estudando
+Front-end & Design: React.js, Vite, HTML5, CSS3, Tailwind CSS.
 
-- Estrutura de Dados
-- Lógica de Programação Avançada
-- Banco de Dados
-- Boas práticas de desenvolvimento
+Back-end & Persistência: Node.js, Express.js, Prisma ORM, SQLite.
 
----
+Dados & Negócios: Power BI (Dashboards e Modelagem), Engenharia de Requisitos.
 
-## Objetivo
+Ferramentas: Git, GitHub, VS Code, Thunder Client.
 
-Conquistar uma oportunidade como Desenvolvedora ou Analista Júnior, aplicando meus conhecimentos técnicos e evoluindo profissionalmente na área de tecnologia.
+Atualmente estudando
 
----
+Estrutura de Dados e Lógica de Programação Avançada
 
-## Contato
+Modelagem e Otimização de Bancos de Dados
 
-- LinkedIn: www.linkedin.com/in/ana-clara-alves-dev12345
+Boas práticas de desenvolvimento de software e DevSecOps
+
+Objetivo
+
+Conquistar uma oportunidade como Desenvolvedora Full-Stack Júnior, Analista de Sistemas Júnior ou Analista de Segurança/SOC Júnior, aplicando meus conhecimentos técnicos e evoluindo profissionalmente na área de tecnologia.
+
+Contato
+
+LinkedIn: linkedin.com/in/ana-clara-alves-dev12345
